@@ -12,7 +12,7 @@ A publicly available dataset focused on trash objects in natural scenes. Used as
 ### 2. [Custom-Collected Dataset (Real-World)](https://virginiatech-my.sharepoint.com/:u:/g/personal/peiying_vt_edu/EbFd8kc6-RtNhXUVzUyC8VcBBRAZdP8oWDWbcJG-fUbMgw?e=U8dWvA)
 A collection of images manually captured and annotated around campus, with a focus on real-world sidewalk and grass areas.
 
-### 3. [AI-Generated + Original Hybrid Dataset](https://virginiatech-my.sharepoint.com/:u:/g/personal/peiying_vt_edu/EXrg9gBaYn5Fhl7zPfV0TroBIc5a6dOk80mOlEyccyaIuQ?e=Ux7Gi9)
+### 3. [AI-Generated + Original Dataset](https://virginiatech-my.sharepoint.com/:u:/g/personal/peiying_vt_edu/EXrg9gBaYn5Fhl7zPfV0TroBIc5a6dOk80mOlEyccyaIuQ?e=Ux7Gi9)
 This dataset combines real photos with synthetic images generated using generative AI tools to improve generalization and robustness.
 
 ---
